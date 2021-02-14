@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dropbox": "^9.1.0",
     "ytdl-core": "^4.4.5"
   }
 }
